@@ -1,0 +1,7 @@
+*{font-family:tahoma;}
+.hot {background-color:red; color:#fff;}
+ul{width:200px; margin:0px auto;}
+ul li {margin-top:3px; list-style:none; line-height:45px; padding:0px 10px;}
+.offer{color:blue;}
+#list {background:grey;}
+.underline {text-decoration:underline white;}

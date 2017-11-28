@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div>
+        <h2 >Shop list</h2>
+        <p> Do kupienia pozostało <span>5</span> produktów.</p>
+        <ul>
+            <li  id = "one" class="active">milk</li>
+            <li  id = "two" class="active">cabbage</li>
+            <li  id = "three" class="active">cucumber <em> bonus </em></li>
+            <li  id = "four" class="active">honey</li>
+            <li  id = "five" class="active">lemon</li>
+        </ul>
+        <div id="newItemButton"><button href="#" id="showForm">Nowy element</button></div>
+        <form hidden id="newItemForm">
+            <input type="text" id="itemDescription" placeholder="Dodaj opis..." />
+            <input type="submit" id="addButton" value="Dodaj" />
+        </form>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js";></script>
+    <script src="js/javascript.js"></script>
+</body>
+</html>

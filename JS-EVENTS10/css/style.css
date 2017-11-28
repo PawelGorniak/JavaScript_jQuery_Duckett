@@ -1,0 +1,2 @@
+input[data-state ="record"] {color:red; font-size:15px; font-weight:bold;}
+input[data-state ="pause"] {color:green; font-size:15px; font-weight: bold;}

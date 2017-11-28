@@ -1,0 +1,30 @@
+.product {
+    color:pink;
+    font-size: 20px;
+    font-weight: bold;
+}
+nav ul li {
+    float:left;
+    font-size: 25px;
+    list-style-type: none; padding:10px;s
+}
+
+#content {
+    clear:both;
+    line-height:25px;
+}
+
+.contact {
+    color:red;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.box {
+    display:block;
+    height:100px;
+    width: 100px;
+    border: 1px solid #000;
+    clear:both;
+}

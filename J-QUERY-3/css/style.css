@@ -1,0 +1,8 @@
+*{font-family:tahoma; font-size:12px;}
+div {width: 250px; margin:5px auto;}
+h2 {text-align:center; background-color:#000; color:#fff;  line-height:50px;}
+.hot {background-color:red; color:#fff;}
+ul{ -webkit-padding-start: 0px; margin-bottom:15px;}
+ul li {margin-top:3px; list-style:none; line-height:35px; padding:0px 5px; border: 1px solid #808080; background-color: red;}
+.done {background-color: green;}
+p {font-size:12px;}
